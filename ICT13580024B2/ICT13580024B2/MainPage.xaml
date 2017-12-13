@@ -43,7 +43,7 @@
                         </Grid.ColumnDefinitions>
 
                         <Image
-                            Source="https://oceanservice.noaa.gov/bootstrap/img/icon-infographic.jpg"
+                            Source="https://goo.gl/images/F2Eiq8"
                             BackgroundColor="Silver"
                             HeightRequest="100"/>
 
